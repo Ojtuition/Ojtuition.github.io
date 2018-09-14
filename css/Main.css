@@ -263,8 +263,8 @@ input[type=checkbox] {
 }
 
 .head_pane {
-	height: 140px;
-	width: 35%;
+	height: 150px;
+	width: 40%;
 	background-color: black;
 	position: absolute;
 	bottom: 0;
@@ -272,8 +272,8 @@ input[type=checkbox] {
 }
 
 .head_pane_r {
-	height: 140px;
-	width: 35%;
+	height: 150px;
+	width: 40%;
 	background-color: black;
 	position: absolute;
 	bottom: 0;
@@ -1195,13 +1195,13 @@ footer p {
 }
 
 .head_pane {
-	height: 115px;
-	width: 40%;
+	height: 140px;
+	width: 50%;
 }
 
 .head_pane_r {
-	height: 115px;
-	width: 40%;
+	height: 140px;
+	width: 50%;
 }
 
 .head_pane_i h4 {
@@ -1656,12 +1656,12 @@ footer p {
 	/**HOME**/
 
 	.head_pane {
-		height: 100px;
+		height: 120px;
 		width: 60%;
 	}
 
 	.head_pane_r {
-		height: 100px;
+		height: 120px;
 		width: 60%;
 	}
 
