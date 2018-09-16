@@ -263,7 +263,7 @@ input[type=checkbox] {
 }
 
 .head_pane {
-	height: 150px;
+	height: 160px;
 	width: 40%;
 	background-color: black;
 	position: absolute;
@@ -272,7 +272,7 @@ input[type=checkbox] {
 }
 
 .head_pane_r {
-	height: 150px;
+	height: 160px;
 	width: 40%;
 	background-color: black;
 	position: absolute;
