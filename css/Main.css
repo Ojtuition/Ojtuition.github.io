@@ -1063,6 +1063,7 @@ footer > i, p, a {
 	display: inline-block;
 	padding: 1% 0 1% 5%;
 	width: 50%;
+	display: none;
 }
 
 .social i {
