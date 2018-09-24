@@ -1511,7 +1511,8 @@ footer p {
 	}
 	/**CONTACT**/
 	.c_c_wrap {
-		background: url(../img/graphics/h_back4.png) no-repeat center center fixed;
+		background: none;
+		background-color: #177272;
 		padding-top: 5%;
 	}
 
@@ -1722,11 +1723,8 @@ footer p {
 
 	.h_content {
 		width: 100%;
-		background: url(../img/graphics/h_back2.png) no-repeat center center fixed;
-	  -webkit-background-size: cover;
-	  -moz-background-size: cover;
-	  -o-background-size: cover;
-	  background-size: cover;
+		background: none;
+	  background-color: #177272;
 		padding-top: 10%;
 	}
 
@@ -1905,7 +1903,8 @@ footer p {
 	}
 
 	.l_c_wrap2 {
-		background: url(../img/graphics/h_back2.png) no-repeat center center fixed;
+		background: none;
+		background-color: #177272;
 	}
 
 	.l_c_wrap h1 {
@@ -2647,7 +2646,7 @@ footer {
 	width: 100%;
 	background-color: #34333e;
 	position: initial;
-	padding-bottom: 5%;
+	padding-bottom: 1%;
 }
 
 footer > i, p, a {
@@ -2655,7 +2654,7 @@ footer > i, p, a {
 }
 
 .social {
-	display: block;
+	display: none;
 	padding: 5% 0 2.5% 0%;
 	width: 90%;
 	margin: 0 auto;
@@ -2676,6 +2675,7 @@ footer p {
 	width: 90%;
 	margin: 0 auto;
 	padding-right: 0;
+	padding-top: 5%;
 	font-size: 80%;
 	position: initial;
   transform: none;
